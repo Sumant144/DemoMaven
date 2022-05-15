@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="148" started-at="2022-05-15T12:24:46 IST" finished-at="2022-05-15T12:24:46 IST">
+  <suite name="Suite" duration-ms="323" started-at="2022-05-15T12:26:46 IST" finished-at="2022-05-15T12:26:46 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="148" started-at="2022-05-15T12:24:46 IST" finished-at="2022-05-15T12:24:46 IST">
+    <test name="Test" duration-ms="323" started-at="2022-05-15T12:26:46 IST" finished-at="2022-05-15T12:26:46 IST">
       <class name="Demo.Maven">
-        <test-method status="FAIL" signature="setup()[pri:0, instance:Demo.Maven@2bbf4b8b]" name="setup" duration-ms="82" started-at="2022-05-15T12:24:46 IST" finished-at="2022-05-15T12:24:46 IST">
+        <test-method status="FAIL" signature="setup()[pri:0, instance:Demo.Maven@2bbf4b8b]" name="setup" duration-ms="222" started-at="2022-05-15T12:26:46 IST" finished-at="2022-05-15T12:26:46 IST">
           <exception class="java.lang.IllegalStateException">
             <message>
               <![CDATA[The driver executable must exist: C:\Users\User\eclipse-workspace\Mavendemo\chromedriver.exe]]>
