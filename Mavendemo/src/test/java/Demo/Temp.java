@@ -12,7 +12,7 @@ public class Temp {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\User\\git\\DemoMaven\\Mavendemo\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.saucedemo.com/");
-		System.out.println("Sumant");
+		
 	}
 
 }
