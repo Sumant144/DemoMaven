@@ -3,7 +3,13 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
   	<classes>
-  		<class name="Demo.Temp"/>
+  		<class name="Demo.Temp">
+  			<methods>
+  				<include name="setup"/>
+  				<include name="login"/>
+  				<include name="Close"/>
+  			</methods>
+  		</class>
   	</classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
