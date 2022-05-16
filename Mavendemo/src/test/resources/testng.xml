@@ -7,7 +7,7 @@
   			<methods>
   				<include name="setup"/>
   				<include name="login"/>
-  				<include name="Close"/>
+  				<include name="close"/>
   			</methods>
   		</class>
   	</classes>
